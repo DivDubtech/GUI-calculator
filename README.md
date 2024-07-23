@@ -12,5 +12,5 @@ A simple calculator application built using python's `tkinter` libary .
 ## Requirements
 
 - Python 3.x
-- install tkinter libary.
+- install `tkinter` libary.
 
